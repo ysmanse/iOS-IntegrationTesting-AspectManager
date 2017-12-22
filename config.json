@@ -1,0 +1,37 @@
+
+
+{
+    "simulated-delay": 5000,
+    "testing-routes":
+    [
+     {
+     "isTest": true,
+     "url": "https://msr.istarbucks.co.kr:6443/appif/coupon/validList.do",
+     "response-http-status": 200,
+     "response-header": "header.json",
+     "response-body": "body.json"
+     },
+     {
+     "isTest": true,
+     "url": "https://msr.istarbucks.co.kr:6443/appif/coupon/validList.do",
+     "response-http-status": 200,
+     "response-header": "header.json",
+     "response-body": "body.json"
+     },
+     {
+     "isTest": true,
+     "url": "https://msr.istarbucks.co.kr:6443/appif/coupon/validList.do",
+     "response-http-status": 200,
+     "response-header": "header.json",
+     "response-body": "body.json"
+     },
+     {
+     "isTest": true,
+     "url": "https://msr.istarbucks.co.kr:6443/appif/coupon/validList.do",
+     "response-http-status": 200,
+     "response-header": "header.json",
+     "response-body": "body.json"
+     }
+     ]
+}
+
